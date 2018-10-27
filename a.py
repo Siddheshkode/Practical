@@ -1,5 +1,5 @@
-for i in range (6):
-   if(i==3):
+for i in range (10):
+   if(i==5):
      pass
-     print("middle of the list")
-     print(i)
+     print("middle of the list:",i)
+
